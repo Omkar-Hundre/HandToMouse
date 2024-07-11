@@ -1,0 +1,13 @@
+2024-03-02 13:09:19,620 - __main__ - DEBUG - audio has been initialized
+2024-03-02 13:09:19,638 - __main__ - DEBUG - Clap detected! 4 peaks found
+2024-03-02 13:09:19,641 - __main__ - DEBUG - Clap detected! 1 peaks found
+2024-03-02 13:09:19,643 - __main__ - DEBUG - Clap detected! 3 peaks found
+2024-03-02 13:09:19,662 - __main__ - DEBUG - Clap detected! 4 peaks found
+2024-03-02 13:09:19,679 - __main__ - DEBUG - Clap detected! 5 peaks found
+2024-03-02 13:09:19,681 - __main__ - DEBUG - Clap detected! 1 peaks found
+2024-03-02 13:09:19,706 - __main__ - INFO - audio stream stopped
+2024-03-02 13:09:59,082 - __main__ - DEBUG - audio has been initialized
+2024-03-02 13:10:25,757 - __main__ - DEBUG - audio has been initialized
+2024-03-02 13:10:25,770 - __main__ - DEBUG - Clap detected! 3 peaks found
+2024-03-02 13:10:25,773 - __main__ - DEBUG - Clap detected! 2 peaks found
+2024-03-02 13:10:25,785 - __main__ - INFO - audio stream stopped
